@@ -1,5 +1,5 @@
 let budget = 100;
-let product =   60;
+let product = prompt("Hoeveel kost het product dat je wilt kopen?");
 let moneyy = document.getElementById("money");
 
 

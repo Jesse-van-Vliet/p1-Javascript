@@ -21,6 +21,8 @@ function color_background_change() {
 
 }
 
+
+
 function text_change() {
     let test  = "test2";
     document.getElementById(test).innerText = "text veranderen!";
